@@ -8,4 +8,6 @@ Once installed you select the latest version of jQuery and paste in the contents
 
 I then tested against this URL:
 
-https://toronto.craigslist.ca/search/ggg?query=dancers&is_paid=all
+https://toronto.craigslist.ca/search/ggg?query=dancers&is_paid=all 
+
+This data lacks images and locations for some of the results
